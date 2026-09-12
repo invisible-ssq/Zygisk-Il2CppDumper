@@ -1,4 +1,4 @@
-name: Classic Build (Hardcoded Mode new)
+name: Classic Build (Hardcoded Mode)
 
 on:
   workflow_dispatch:
